@@ -1,0 +1,4 @@
+# requirements.txt
+mido==1.2.10          # Manipulação de arquivos MIDI
+python-rtmidi==1.5.6  # Backend MIDI
+pygame==2.5.2         # Reprodução de áudio
