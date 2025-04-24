@@ -5,6 +5,8 @@
 [![Mido](https://img.shields.io/badge/Mido-1.2.10-yellow)](https://mido.readthedocs.io/)
 
 Um editor de partituras musical interativo com suporte a MIDI, permitindo composição visual e conversão para arquivos executáveis.
+![image](https://github.com/user-attachments/assets/40abdfdd-7de0-4a54-b00e-2b67a63d08ae)
+
 
 ![Demo](screenshots/demo.gif) <!-- Adicionar gravação da interface em funcionamento -->
 
